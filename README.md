@@ -1,1 +1,1 @@
-python contribute.py --repository=git@github.com:user/repo.git
+python contribute.py --repository=git@github.com:yulejessica/repo.git
